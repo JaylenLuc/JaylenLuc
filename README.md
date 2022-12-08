@@ -1,7 +1,7 @@
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenLuc&layout=compact&hide=html&bg_color=#FFC0CB)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenLuc&layout=compact&hide=html&theme=nightowl)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JaylenLuc&theme=highcontrast&show_icons=true&count_private=true&theme=material-palenight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=JaylenLuc&theme=material-palenight&show_icons=true&count_private=true)
 
 
 Linkdin: https://www.linkedin.com/in/jaylen-luc-830186169/

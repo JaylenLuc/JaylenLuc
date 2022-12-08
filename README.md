@@ -1,3 +1,5 @@
+Hi, my name is 陸澤豪 and i do recreational programming to make cool stuff
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenLuc&hide=html&theme=nightowl)
 
 

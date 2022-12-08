@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--https://www.linkedin.com/in/jaylen-luc-830186169/
 
-<!--
+
 **JaylenLuc/JaylenLuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
